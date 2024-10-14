@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entreprise>
+  <nom>TechInnovation SA</nom>
+  <description>
+    TechInnovation SA est une entreprise leader dans le domaine des solutions technologiques innovantes.
+    Fondée en 2010, notre mission est de transformer les idées en réalité grâce à la puissance de la technologie.
+  </description>
+  
+  <departements>
+    <departement>
+      <nom>Recherche et Développement</nom>
+      <responsable>Dr. Marie Dupont</responsable>
+      <effectif>50</effectif>
+      <projets>
+        <projet>
+          <nom>IA Assistante</nom>
+          <description>Développement d'un assistant virtuel intelligent pour améliorer la productivité en entreprise.</description>
+        </projet>
+        <projet>
+          <nom>EcoTech</nom>
+          <description>Création de solutions technologiques écologiques pour réduire l'empreinte carbone des entreprises.</description>
+        </projet>
+      </projets>
+    </departement>
+    
+    <departement>
+      <nom>Marketing</nom>
+      <responsable>Jean Martin</responsable>
+      <effectif>25</effectif>
+      <campagnes>
+        <campagne>
+          <nom>TechForAll</nom>
+          <objectif>Promouvoir l'accessibilité des nouvelles technologies auprès du grand public.</objectif>
+        </campagne>
+        <campagne>
+          <nom>InnovationWeek</nom>
+          <objectif>Organiser une semaine d'événements pour présenter nos dernières innovations aux clients potentiels.</objectif>
+        </campagne>
+      </campagnes>
+    </departement>
+  </departements>
+  
+  <clients>
+    <client>
+      <nom>GlobalCorp</nom>
+      <secteur>Finance</secteur>
+      <projet>Implémentation d'un système de sécurité basé sur la blockchain</projet>
+    </client>
+    <client>
+      <nom>EcoSolutions</nom>
+      <secteur>Environnement</secteur>
+      <projet>Développement d'une plateforme de gestion intelligente des ressources énergétiques</projet>
+    </client>
+  </clients>
+  
+  <valeurs>
+    <valeur>Innovation</valeur>
+    <valeur>Durabilité</valeur>
+    <valeur>Collaboration</valeur>
+    <valeur>Excellence</valeur>
+  </valeurs>
+</entreprise>
+
